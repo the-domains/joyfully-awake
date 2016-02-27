@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Joyfully Awake!]]></title>
         <description><![CDATA[Joyfully Awake!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joyfully-awake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:43:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 19:45:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joyfully-awake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4562c28e-74c2-4ee6-805d-8fbf259835cf.jpg">]]></description>
-            <link>undefined9a591811-796d-493d-9163-bacf44037191/index.html</link>
+            <link>https://thegrid.ai/joyfully-awake/9a591811-796d-493d-9163-bacf44037191/index.html</link>
             <guid isPermaLink="false">9a591811-796d-493d-9163-bacf44037191</guid>
-            <pubDate>Sat, 27 Feb 2016 19:42:49 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 19:45:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
